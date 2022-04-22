@@ -1,0 +1,2 @@
+s = "anagram"
+t = "nagaram"
